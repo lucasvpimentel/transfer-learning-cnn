@@ -5,8 +5,7 @@ Este projeto implementa **Transfer Learning** com uma rede neural convolucional 
 ## Estrutura do Projeto
 
 - **Transfer_Learning.ipynb**: O notebook principal com todo o código para carregar o modelo, ajustar as camadas finais e treinar o modelo no conjunto de dados.
-- **datasets/**: (Opcional) Diretório para armazenamento de dados de imagem.
-- **models/**: (Opcional) Diretório para salvar o modelo treinado.
+- **models/**: Diretório para salvar o modelo treinado.
 
 ## Funcionalidades
 
